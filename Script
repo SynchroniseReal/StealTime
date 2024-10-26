@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick("Use the new sync hub!")
+game.Players.LocalPlayer:kick("Use the new sync hub loadstring!")
